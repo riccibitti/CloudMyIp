@@ -8,7 +8,7 @@ Great for accessing your home network or IP cameras from abroad, saving the mone
 
 ## How it works:
 * an ESP8266 module (e.g. NodeMCU) reads the home network public IP address using the [ipify.org](http://ipify.org) API
-* the module echoes back the public IP address to the cloud, publishing  "dweet" using the [dweet.io](http://dweet.io) APIs.
+* the module echoes back the public IP address to the cloud, publishing a "dweet" using the [dweet.io](http://dweet.io) APIs.
 * a web application running on [freeboard.io](http://freeboard.io) reads the dweet, and presents the public IP address nicely  using any web browser. 
 
 ## Dweets?
@@ -20,6 +20,9 @@ Now try to read it:
 > <http://dweet.io/get/latest/dweet/for/yourDweetThingName>
 
 Is that simple. Don't even need to register :-)
+
+## Visualize dweets on a dashboard
+[__Freeboard__](https://freeboard.io) makes it simple showing dweets on a nice web dashboard in just few clicks. A free account is all you need. Pages created this way can be read by anyone with the link, and can also be loaded as web apps on your phone desktop, making access super-easy (choose "Add to home screen" on Android). ![freeboard.io](pictures/freeboard.png)
 
 ## Setting up your system
 ### 1. Start from the Arduino sketch.
