@@ -12,10 +12,10 @@ Great for accessing your home network or IP cameras from abroad, saving the mone
 * a web application running on [freeboard.io](http://freeboard.io) reads the dweet, and presents the public IP address nicely  using any web browser. 
 
 ## Dweets?
-Dweet are Tweets for devices. A device (in our case, the ESP8266) can "dweet" a short message on [__dweet.io__](https://dweet.io). For up to the next 24 hours, anyone can read it pointing his browser to the dweet thing name. If you haven't tried a dweet before, try typing this URL on your browser (or at least just click the link if you are damn lazy):
+*Dweets* are Tweets for devices. A device (in our case, the ESP8266) can *"dweet"* a short message on [__dweet.io__](https://dweet.io). For up to the next 24 hours, anyone can read it pointing his browser to the dweet thing name. If you haven't tried a dweet before, try typing this URL on your browser (*or just click the link if you are damn lazy!*):
 > <http://dweet.io/dweet/for/yourDweetThingName?hello=world>
 
-This is all it takes to send a dweet to the Cloud.
+This is all it takes to send a *dweet* to the Cloud.
 Now try to read it:
 > <http://dweet.io/get/latest/dweet/for/yourDweetThingName>
 
@@ -23,6 +23,7 @@ Is that simple. Don't even need to register :-)
 
 ## Visualize dweets on a dashboard
 Dweets are great, but reading them typing a long URL in a browser is annoying. [__Freeboard__](https://freeboard.io) makes it simple showing dweets on a nice web dashboard in just few clicks. A free account is all you need. Pages created this way can be read by anyone with the link, and can also be loaded as web apps on your phone desktop, making access super-easy (choose "Add to home screen" on Android).
+
 ![freeboard.io](pictures/freeboard.png)
 
 
@@ -41,5 +42,7 @@ Register on [__freeboard.io__](https://freeboard.io) and login (please have a lo
 
 ### 3. Share the link
 Freeboard's "SHARE" button shows a link anyone can use to view your dashboard. In addition, if your browser supports web-applications, you can also create an icon to access it directly like any other app (on the Android browser this is done selecting "Add to home screen" from the "Other" menu).
+
+Enjoy!
 
 
