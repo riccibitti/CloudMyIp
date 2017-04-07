@@ -37,9 +37,9 @@ String dweetThingName("yourDweetThingName");
 Compile and program your 'duino. Verify on the serial monitor that the board is actually connecting to the WiFi and reporting the IP address. Now you can read the dweets browsing to  <http://dweet.io/get/latest/dweet/for/yourDweetThingName> (crude) or continue setting up a nice and easy dashbord to display it automatically.
 
 ### 2. Setup a dashboard for showing the IP.
-Register on [__freeboard.io__](https://freeboard.io) and login (please have a look at the tutorial). The next step are easier to follow from a video, I've put one here: [Freeboard setup video on youTube]. Just be careful to match the "THING NAME" (AlbertoHomeRouter in the video) to what you set as dweetThingName in the Arduino sketch.
+Register on [__freeboard.io__](https://freeboard.io) and login (please have a look at the tutorial). The next step are easier to follow from a video, I've put one here: [__Freeboard setup video on youTube__](https://youtu.be/QreTYtv3lsc). Just be careful to match the "THING NAME" (AlbertoHomeRouter in the video) to what you set as dweetThingName in the Arduino sketch.
 
 ### 3. Share the link
-The "SHARE" button shows a link anyone can use to view your dashboard. If, in addition, your browser supports web-applications, you can also create an icon to access it directly like any other app (on the Android browser this is done selecting "Add to home screen" from the "Other" menu).
+Freeboard's "SHARE" button shows a link anyone can use to view your dashboard. In addition, if your browser supports web-applications, you can also create an icon to access it directly like any other app (on the Android browser this is done selecting "Add to home screen" from the "Other" menu).
 
 
