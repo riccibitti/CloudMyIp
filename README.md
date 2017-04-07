@@ -24,7 +24,9 @@ Is that simple. Don't even need to register :-)
 ## Visualize dweets on a dashboard
 [__Freeboard__](https://freeboard.io) makes it simple showing dweets on a nice web dashboard in just few clicks. A free account is all you need. Pages created this way can be read by anyone with the link, and can also be loaded as web apps on your phone desktop, making access super-easy (choose "Add to home screen" on Android).
 
-![freeboard.io](pictures/freeboard.png) 
+<p alingn="right">
+![freeboard.io](pictures/freeboard.png)
+</p> 
 
 ## Setting up your system
 ### 1. Start from the Arduino sketch.
